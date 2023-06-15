@@ -323,7 +323,7 @@ class Student:
         return average_grade >= 60
 
 student1 = Student("Ann Mwangombe", 15, [70, 80, 54, 90, 70])
-student2 = Student("Caroline Mwende", 20, [50, 64, 70, 50, 80])
+student2 = Student("Caro Mwende", 20, [50, 64, 70, 50, 80])
 
 def main():
     students = [student1, student2]
